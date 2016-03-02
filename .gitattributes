@@ -1,0 +1,53 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.PNG binary
+*.jpg binary
+*.JPG binary
+*.tiff binary
+*.TIFF binary
+*.tga binary
+*.TGA binary
+*.fbx binary
+*.FBX binary
+*.mdl binary
+*.MDL binary
+*.blend binary
+*.BLEND binary
+*.umap binary
+*.UMAP binary
+*.uasset binary
+*.UASSET binary
+*.mp3 binary
+*.MP3 binary
+*.mp4 binary
+*.MP4 binary
+*.ogg binary
+*.OGG binary
+*.wav binary
+*.WAV binary
+*.dll binary
+*.DLL binary
+*.exe binary
+*.EXE binary
+*.zip binary
+*.ZIP binary
+*.7z binary
+*.7Z binary

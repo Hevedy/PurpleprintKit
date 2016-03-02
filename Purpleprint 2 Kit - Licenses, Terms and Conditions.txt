@@ -1,0 +1,71 @@
+Purpleprint 2 - Kit (c) 2014-2016 by Hevedy <https://github.com/Hevedy> <https://github.com/Hevedy/PurpleprintKit>
+
+
+Purpleprint 2 Kit - Licenses, Terms and Conditions
+
+Section 1 -- Definitions.
+
+    a. The "source code" means all the non binary and editable code files including but not limited
+       to *.cpp, *.h, *.cs, *.xml, *.json, *.ini, *.bat, *.uproject, *.uplugin.
+
+    b. The "resources" means all the binary and non binary files including but not limited to images,
+       textures, sounds, music, videos, materials, blueprints, effects, 3D models, blender files,
+       text files, pdf, documentation and the website... (*.md, *.txt, *.pdf, *.html, *.htm, *.js,
+       *.pdf, *.png, *.jpg, *.tiff, *.tga, *.obj, *.mtl, *.fbx, *.mdl, *.blend, *.wav, *.ogg, *.mp3,
+       *.mp4, *.uasset, *.umap...).
+
+    c. The "binaries compiled and non open source" means all the binary files without the source code provided
+       excluding the (b.) Resources files and the specified binary files under other license or the same of
+       a different author, but including but not limited to binary files like *.exe, *.dll and others.
+
+    d. The terms "reproduce," "reproduction," "derivative works," and "distribution" have the
+       same meaning here as under U.S. copyright law.
+
+    e. A "contribution" is the original software, or any additions or changes to the software.
+
+    f. A "contributor" is any person that distributes its contribution under this license.
+
+    g. A "project", "package", "software", "content" means the original included content individually
+       or as package in this project, software.
+
+
+Section 2 -- Conditions.
+
+    a. You should respect the licenses included with the project or package for each file specified in the Section(1).
+
+    b. You may satisfy the conditions and terms specified in each license in combination with the morality terms and rights.
+
+    c. This license does not grant you rights to use any contributors' name, logo, or trademarks.
+       But you can use the contributors' name, logo, or trademarks to give credit in any legal project using this content.
+
+    d. You may not use this project or package content to create or reproduce another non free package.
+
+    e. If you distribute any portion of the package, you must retain all copyright, trademark,
+       and attribution notices that are present in the package.
+
+    f. The author reserves the right to change or edit these terms and conditions and the licenses at any time.
+
+    g. If you do not agree with the licenses and this terms and conditions, please DO NOT USE THIS PROJECT, SOFTWARE.
+
+    h. The content defined as "source code" is under the MIT License (MIT) <http://opensource.org/licenses/MIT>.
+
+    i. The content defined as "resources" is under the Creative Commons Attribution 4.0 International License (CC-BY 4.0)
+       <http://creativecommons.org/licenses/by/4.0/> but this exclude the logo, name or trademarks.
+
+    j. You are agreeing to these Terms and Conditions and the Licenses by downloading a this project.
+
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+    A copy of the licenses are included in the project Docs/Licenses/.
+
+
+    Unreal® is a trademark or registered trademark of Epic Games, Inc.
+    in the United States of America and elsewhere.
+    Unreal® Engine, Copyright 1998 – 2016, Epic Games, Inc. All rights reserved.

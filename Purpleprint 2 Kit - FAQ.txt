@@ -1,0 +1,66 @@
+Purpleprint 2 - Kit (c) 2014-2016 by Hevedy <https://github.com/Hevedy> <https://github.com/Hevedy/PurpleprintKit>
+
+
+Purpleprint 2 Kit - FAQ
+
+Official Sites:
+
+  Website: http://hevedy.github.io/PurpleprintKit/
+  Purpleprint 2 - Kit (Complete): http://hevedy.itch.io/purpleprintkit
+  Purpleprint 1 - Kit Legacy (Complete): http://hevedy.itch.io/purpleprintkit
+
+  itch.io: http://hevedy.itch.io/purpleprintkit
+  Github: https://github.com/Hevedy/PurpleprintKit
+
+  Hevedy Twitter: https://twitter.com/Hevedy
+  Hevedy Github: https://github.com/Hevedy
+  Hevedy Twitch: http://www.twitch.tv/hevedy
+  Hevedy Trello: https://trello.com/b/vx7Ydo7I/public-projects
+
+
+FAQ:
+
+  Q. Why use Purpleprint 2 - Kit?
+    A. Because is one of the biggest package of resources for free over the network and you can use the content under the licenses MIT & CC-BY 4.0 and the Terms & Conditions without the EULA limitations of others.
+
+  Q. It's Purpleprint 2 - Kit a true free software?
+    A. Yes, along you accept the licenses MIT & CC-BY 4.0 and the Terms & Conditions.
+
+  Q. What Can I do with this?</strong>
+    A. Create complete games and use the tools included to boost the development of your games, tools, templates... you can create level previews in the editor without the need of use BSP or using Purpleprint 2 - Kit in combination with the BSP tool. And many more things for the games development.
+
+  Q. What tools include Purpleprint 2 - Kit?</strong>
+    A. The new version include a plugin for Unreal Engine 4 with the code open source under the MIT license where you can find new functions for C++ & Blueprints to help you in the game development.
+
+
+Legal FAQ:
+
+  Q. Can I share this website or link with others?
+    A. Yes, you can, but giving the appropriate credit.
+
+  Q. Can I share a stream or recorder videos or images including video tutorials using this projects to the public?
+    A. Yes, you can, but giving the appropriate credit.
+
+  Q. Can I use this projects for commercial purposes?
+    A. Yes, you are granted a license to use these samples for both non-commercial and commercial purposes in your creative work (including but not limited to games, apps and video projects) along you include the original project licenses and give credit to the author.
+
+  Q. Can I create a package of resources or tools with this resources for commercial purposes to sell the package?
+    A. No, you can't create derived content or use this projects content to create another package of resources for commercial purposes to sell the package.
+
+  Q. Can I use this projects in combination with my content to create a marketplace item?
+    A. No, you can't. But you can use this projects with your content only for showcase purposes (Media content) along you include a note with a link and reference to the author and the project.
+
+  Q. Can I use this projects for different game engines?
+    A. Yes, you can.
+
+  Q. Can I use this projects to create a game engine?
+    A. Yes, you can, following the Terms & Conditions and Licenses.
+
+  Q. Can I use this projects to create a tutorial and give the content with the tutorial?
+    A. Yes, you can.
+
+  Q. Can I use this projects to create a video tutorial or a written tutorial or the both?
+    A. Yes, you can.
+
+  Q. Can I use this projects to create a book or manual?
+    A. Yes, if you use this in combination with a game engine for example and following the Terms & Conditions and Licenses.

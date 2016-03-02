@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0",
+	"FriendlyName": "Purpleprint 2 - Kit Plugin",
+	"Description": "New functions and new nodes for Blueprints",
+	"Category": "PurpleprintKit 2",
+	"CreatedBy": "Hevedy",
+	"CreatedByURL": "https://github.com/Hevedy/PurpleprintKit",
+	"DocsURL": "https://github.com/Hevedy/PurpleprintKit",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/Hevedy/PurpleprintKit",
+	"Modules": [
+		{
+			"Name": "PPKLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false
+}

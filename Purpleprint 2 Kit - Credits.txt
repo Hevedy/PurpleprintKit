@@ -1,0 +1,35 @@
+Purpleprint 2 - Kit (c) 2014-2016 by Hevedy <https://github.com/Hevedy> <https://github.com/Hevedy/PurpleprintKit>
+
+
+Purpleprint 2 Kit - Credits
+
+The content in Purpleprint 2 - Kit is created by Hevedy
+with the exception of the third-party Roboto font by Christian Robertson
+https://www.google.com/fonts/specimen/Roboto .
+
+
+Thanks to the Urho3D team for create Urho3D and the Epic Games team for
+create Unreal Engine 4 and give access to all users to it.
+
+Special thanks to the Unreal Engine 4 community users for help me,
+support me and report problems:
+- Moss
+- Joviex
+
+Special thanks too to the Urho3D community users for help me and
+support me and create that awesome game engine:
+- aster2013
+- cadaver
+- friesencr
+
+And thanks to all these creators and contributors of plugins, third-party software,
+libs and tutorial helping others for free and to the teams under the open source
+third-party software used to create Purpleprint 2 - Kit:
+- Blender
+- Krita
+- Gimp
+- Audacity
+- LMMS
+
+
+Thanks you all!

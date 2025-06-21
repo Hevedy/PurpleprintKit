@@ -8,14 +8,8 @@ Author: Hevedy <https://github.com/Hevedy>
 Ready to work with Unreal Engine 4.10.1.  
 
 
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif)](https://streampro.io/tip/hevedy)  
-Donations are appreciated thanks.
-
-
 Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
 Unreal® Engine, Copyright 1998 – 2016, Epic Games, Inc. All rights reserved.
-
-
 
 
 
